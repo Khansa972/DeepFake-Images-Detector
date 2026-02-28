@@ -1,8 +1,8 @@
 # DeepFake Images Detector
 
 ## Overview
-This project detects DeepFake images using a deep learning model. It has two parts:
-
+This project detects DeepFake images using a CNN-based deep learning model developed from scratch.
+It has two main components:
 1. **Training & Testing:** Trains the model and evaluates accuracy.  
 2. **GUI:** Allows users to upload images and check if they are Real or Fake.
 
