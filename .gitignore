@@ -1,0 +1,6 @@
+# Ignore datasets and temporary files
+data/
+__pycache__/
+*.pyc
+*.h5          # optional if model checkpoint files are large
+.ipynb_checkpoints/
